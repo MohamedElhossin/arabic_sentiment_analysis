@@ -1,4 +1,4 @@
-# arabic_sentiment_analysis
+#Arabic Sentiment Analysis
 This repo to demo a simple chatbot for Arabic sentiment analysis reviews for hotels and also include analysis and visualization for those hotels.
 
 ## 1- Sentiment Analysis
@@ -11,7 +11,7 @@ This repo to demo a simple chatbot for Arabic sentiment analysis reviews for hot
 ### **Data collection:**
 >balanced-reviews.tsv: a tab separated file containing a balanced dataset of positive and negative reviews. The ratings are mapped into positive (ratings 4 & 5) and negative (ratings 1 & 2). No nuetral reviews are included. The dataset consists of 93700 reviews; 46850 for each positive and negative classes. 
 
-### **Remoive noise:**
+### **Remove noise:**
 >Removing noise from Arabic hotel reviews like ( Al tashqel and special characters)
 
 ### **Removing stopwords:**
