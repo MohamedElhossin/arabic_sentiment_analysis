@@ -21,8 +21,8 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from nltk import classify
 from nltk import NaiveBayesClassifier
 
-#nltk.download('punkt')
-#nltk.download("stopwords")
+nltk.download('punkt')
+nltk.download("stopwords")
 
 def load_data():
 
