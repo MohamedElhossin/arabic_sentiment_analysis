@@ -7,7 +7,7 @@ This repo to create a very simple chatbot for sentiment analysis Arabic reviews 
 
 ![image](https://i.ibb.co/HxbRX8T/1.png)
 
-### ** Data collection**
+### **Data collection**
 >balanced-reviews.tsv: a tab separated file containing a balanced dataset of positive and negative reviews. The ratings are mapped into positive (ratings 4 & 5) and negative (ratings 1 & 2). No nuetral reviews are included. The dataset consists of 93700 reviews; 46850 for each positive and negative classes. 
 
 ### **Remoive noise**
