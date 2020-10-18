@@ -36,3 +36,15 @@ This repo to demo a simple chatbot for Arabic sentiment analysis reviews for hot
 
 ### **Data Collection:**
 > unbalanced-reviews.tsv.rar: the whole dataset of 373,750 reviews. This is a clean dataset that includes all reviews.
+
+
+## **Requirements**
+      $ python3 pip install -r requirements.txt
+      
+
+## **Quick start**
+To run my chatbot write in your cmd.
+
+     $ python3 chaty.py
+
+
