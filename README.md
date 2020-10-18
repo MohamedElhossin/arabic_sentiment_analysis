@@ -39,11 +39,13 @@ This repo to demo a simple chatbot for Arabic sentiment analysis reviews for hot
 
 
 ## **Requirements**
+for requirements libraries to run my chart
+
       $ python3 pip install -r requirements.txt
       
 
 ## **Quick start**
-To run my chatbot write in your cmd.
+To run my chaty write in your cmd.
 
      $ python3 chaty.py
 
