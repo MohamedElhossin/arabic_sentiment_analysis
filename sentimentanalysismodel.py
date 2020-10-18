@@ -64,6 +64,7 @@ def tokenized_remove_stopword(review_list):
 
   return review_tokens
 
+#--->> uncomnet this function if you want to make lemmatization for reviews
 """
 def lemmatize_sentence(review_list):
 
