@@ -2,7 +2,6 @@ from sentimentanalysismodel import sentiment_analysis
 from termcolor import colored
 
 
-
 if __name__ == '__main__':
     print(colored('مرحبا بك :) من فضلك استخدم اللغة العربية', 'yellow'))
     print('----------------------------------------')
@@ -54,12 +53,7 @@ if __name__ == '__main__':
        
 
 
-
-
-
-
-
-
+# this is Gui for chat boot 
 """
 def send():
     
