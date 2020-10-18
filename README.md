@@ -1,4 +1,4 @@
-#Arabic Sentiment Analysis
+# Arabic Sentiment Analysis
 This repo to demo a simple chatbot for Arabic sentiment analysis reviews for hotels and also include analysis and visualization for those hotels.
 
 ## 1- Sentiment Analysis
